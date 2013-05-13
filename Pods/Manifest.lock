@@ -1,0 +1,13 @@
+PODS:
+  - AFNetworking (HEAD based on 1.2.1)
+  - CocoaLumberjack (1.6.2)
+
+DEPENDENCIES:
+  - AFNetworking (HEAD)
+  - CocoaLumberjack
+
+SPEC CHECKSUMS:
+  AFNetworking: 616da0028916ce296f5c3cef74e5552eb4e10e13
+  CocoaLumberjack: d73e1e317ced14ab930797dda6c17156ff17aaa1
+
+COCOAPODS: 0.19.1
